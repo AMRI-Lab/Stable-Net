@@ -6,6 +6,6 @@ Authors: Mingxing Chen, Ruimin Feng, Ming Zhang, Yuyao Zhang, Chunlei Liu, Hongj
 The data used for this study is available at https://fastmri.org/, https://www.mn.uio.no/math/english/people/aca/vegarant/data/storage2.zip, and https://zenodo.org/records/5497811.
 
 ## Setup the environment
-Please install the required packages in “requirements.txt” before running "run_demo.py". 
-Python 3.10.9
+Please install the required packages in “requirements.txt” before running "run_demo.py".  
+Python 3.10.9  
 PyTorch 1.13.1
