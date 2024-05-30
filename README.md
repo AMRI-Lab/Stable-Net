@@ -1,5 +1,5 @@
 # Stable-Net
-This repository contains the PyTorch implementations of our manuscript "A Physics-Based Zero-Shot Learning Method for Stabilizing Fast MRI Reconstruction Using Implicit Neural Representation"
+This repository contains the PyTorch implementations of our manuscript "A Physics-Based Zero-Shot Learning Method for Stabilizing Fast MRI Reconstruction Using Implicit Neural Representation"  
 Authors: Mingxing Chen, Ruimin Feng, Ming Zhang, Yuyao Zhang, Chunlei Liu, Hongjiang Wei
 
 ## Download datasets
