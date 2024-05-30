@@ -7,5 +7,7 @@ The data used for this study is available at https://fastmri.org/, https://www.m
 
 ## Setup the environment
 Please install the required packages in “requirements.txt” before running "run_demo.py". 
+
 Python 3.10.9
+
 PyTorch 1.13.1
